@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(252, 233, 236);
+}
+
+.intro{
+    position: relative;
+    right: 0px;
+    left: 0px;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(116, 80, 34);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.intro h1{
+    font-size: 500%;
+    border: 5px solid rgb(116, 80, 34);
+    margin: 2px;
+}
+
+h2{
+    font-size: 300%;
+    margin: 20px;
+}
+
+.navigation{
+    font-size: 150%; 
+    background-color: rgb(116, 80, 34);
+    text-align: center;
+    padding: 5px;
+    color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.navigation a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.main a{
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    color: rgb(116, 80, 34);
+    text-decoration: none;
+}
+
+.navigation a:hover{
+    border: 2px solid antiquewhite;
+}
+
+.main a:hover{
+    border: 2px solid rgb(116, 80, 34);
+}
+
+.main{
+    position: relative;
+    right: 0px;
+    left: 0px;
+    color: rgb(116, 80, 34);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 125%;
+}
+
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 150%;
+    margin: 10px;
+}
+
+img{
+    border: rgb(116, 80, 34) solid 3px;
+    height: 300px;
+    margin: 10px;
+}
+
+.resume{
+    color: rgb(116, 80, 34);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+.resume h1{
+    text-align: center;
+    font-size: 200%;
+    margin: 20px;
+}
+
+.resume h3{
+    text-align: left;
+    font-size: 125%;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.subhead{
+    text-align: left;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.resume a{
+    color: rgb(116, 80, 34);
+    text-decoration: none;
+}
+
+.resume a:hover{
+    border: 2px solid rgb(116, 80, 34);
+}
